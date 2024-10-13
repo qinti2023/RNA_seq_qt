@@ -23,3 +23,7 @@
 - Step 4 : KEGG and GO enrichment
 - Step 5 : GSEA---Gene Set Enrichment Analysis
 - Step 6 : heatmap multiple groups
+
+### Gallery
+
+![Figure](D:\Lab_Project\ruobing\RNA_seq\remote\Figure.png)
