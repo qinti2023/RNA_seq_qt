@@ -4,8 +4,9 @@
 
 > Reference : Ruobing Li, **Ti Qin**, Yabo Guo, Shan Zhang, Xiaogang Guo,
 > CEAM is a mitochondrial-localized, amyloid-like motif-containing microprotein expressed in human cardiomyocytes,
-> Biochemical and Biophysical Research Communications,
-> Volume 734,2024,150737,ISSN 0006-291X,https://doi.org/10.1016/j.bbrc.2024.150737.
+> **Biochemical and Biophysical Research Communications**,
+> Volume 734,2024,150737,ISSN 0006-291X,
+> https://doi.org/10.1016/j.bbrc.2024.150737.
 
 ### Upstream[linux]
 
@@ -26,4 +27,4 @@
 
 ### Gallery
 
-![Figure]([https://github.com/qinti2023/RNA_seq_qt/blob/master/Figure.png]
+![Figure](https://github.com/qinti2023/RNA_seq_qt/blob/master/Figure.png)
