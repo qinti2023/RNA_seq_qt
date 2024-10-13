@@ -26,4 +26,4 @@
 
 ### Gallery
 
-![Figure](D:\Lab_Project\ruobing\RNA_seq\remote\Figure.png)
+![Figure]([https://github.com/qinti2023/RNA_seq_qt/blob/master/Figure.png]
